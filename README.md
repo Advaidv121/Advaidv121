@@ -1,11 +1,19 @@
 # Advaid V
 
-I'm an AI systems architect and software engineer. I build AI agents, document intelligence systems, and the backend infrastructure that runs them.
+**AI systems architect and software engineer** · [LinkedIn](https://linkedin.com/in/advaid-v-6788011b7)
 
-[Portfolio](https://www.advaid.space) · [LinkedIn](https://linkedin.com/in/advaid-v-6788011b7)
+## What I work on
 
-## Public project
+- **AI agents and retrieval:** multi-agent workflows, tool calling, structured outputs, and retrieval-augmented generation.
+- **Document intelligence:** extracting and validating structured information from unstructured documents.
+- **Backend systems:** durable workflows, asynchronous APIs, caching, and observability.
 
-- [**icdlens**](https://github.com/Advaidv121/icdlens) — Python SDK for WHO ICD-10 catalogue lookup and reviewable coding suggestions.
+## Featured project
 
-I work with Python, FastAPI, LangGraph, retrieval-augmented generation, Temporal, PostgreSQL, and Redis.
+[**icdlens**](https://github.com/Advaidv121/icdlens) is a Python SDK for looking up WHO ICD-10 codes and reviewing coding suggestions.
+
+## Tools
+
+**AI:** LangGraph, LangChain, Langfuse, LangSmith.  
+**Backend:** Python, FastAPI, Temporal, PostgreSQL, Redis.  
+**Infrastructure:** Docker, AWS, Google Cloud.
