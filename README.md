@@ -2,18 +2,16 @@
 
 **AI systems architect and software engineer** · [LinkedIn](https://linkedin.com/in/advaid-v-6788011b7)
 
-## What I work on
+I build production AI systems, with a focus on agent workflows, document intelligence, and backend architecture. I’ve led engineering teams and taken products from prototype to production.
 
-- **AI agents and retrieval:** multi-agent workflows, tool calling, structured outputs, and retrieval-augmented generation.
-- **Document intelligence:** extracting and validating structured information from unstructured documents.
-- **Backend systems:** durable workflows, asynchronous APIs, caching, and observability.
+## Experience
 
-## Featured project
+- **Super Claims** · Lead Software Engineer, previously Senior Software Engineer · Dec 2025–Nov 2026. Led engineering for AI-powered insurance claims automation, with a focus on document processing, workflow reliability, and operating costs.
+- **Livio.ai** · Chief Technology Officer · Mar–Nov 2025. Built and launched an AI assistant that helped students explore study-abroad options.
+- **SoundOfMeme.com** · Co-founder and Chief Technology Officer · Jun 2024–Sep 2025. Led engineering and product development for an AI music generation platform.
+- **Persist Ventures** · Software Developer · May 2024–Sep 2025. Built messaging automation, real-time streaming, payment integrations, and AI search features.
 
-[**icdlens**](https://github.com/Advaidv121/icdlens) is a Python SDK for looking up WHO ICD-10 codes and reviewing coding suggestions.
+## Education
 
-## Tools
-
-**AI:** LangGraph, LangChain, Langfuse, LangSmith.  
-**Backend:** Python, FastAPI, Temporal, PostgreSQL, Redis.  
-**Infrastructure:** Docker, AWS, Google Cloud.
+**B.Tech, Cyber Security & Computer Science** · Lovely Professional University  
+**Certified Ethical Hacker (CEH v11)** · EC-Council
